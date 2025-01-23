@@ -1,6 +1,4 @@
-Here’s an updated version of your **README.md** with the pros and cons section:
 
----
 
 ### **WhatsApp Automation Script - Birthday Wishes**
 
@@ -20,7 +18,7 @@ This Python script automates sending WhatsApp birthday wishes at an exact time. 
 
 ### 1. Clone this repository:
 ```bash
-git clone https://github.com/sanjushri777/WhatsApp-Automation.git
+git clone https://github.com/sanjushri777/WEB-SCRAPING.git
 ```
 
 ### 2. Install Dependencies:
